@@ -52,10 +52,6 @@ module.exports = {
       name: 'GitHub',
       link: 'https://github.com/lyc8503',
     },
-    {
-      name: 'Sualiu's Note',
-      link : 'https://www.rmoe.top/',
-    },
   ],
 
   // This is a day.js-style datetime format string to format datetimes in the app. Ref to
