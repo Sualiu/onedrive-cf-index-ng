@@ -49,9 +49,7 @@ module.exports = {
   // you provide. See the documentation for details.
   links: [
     {
-      name: 'GitHub',
-      link: 'https://github.com/lyc8503',
-    },
+    }
   ],
 
   // This is a day.js-style datetime format string to format datetimes in the app. Ref to
